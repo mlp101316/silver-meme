@@ -2,3 +2,7 @@ h1 {
     color: green;
     font-family: fantasy;
 }
+p {
+    border: rebeccapurple solid 5px
+    ;
+}
